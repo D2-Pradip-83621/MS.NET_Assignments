@@ -1,0 +1,11 @@
+D:\Dot Net Assignments\Assign_5\EmployeeLib\bin\Debug\net6.0\EmployeeLib.deps.json
+D:\Dot Net Assignments\Assign_5\EmployeeLib\bin\Debug\net6.0\EmployeeLib.dll
+D:\Dot Net Assignments\Assign_5\EmployeeLib\bin\Debug\net6.0\EmployeeLib.pdb
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\EmployeeLib.AssemblyInfoInputs.cache
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\EmployeeLib.AssemblyInfo.cs
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\EmployeeLib.dll
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\refint\EmployeeLib.dll
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\EmployeeLib.pdb
+D:\Dot Net Assignments\Assign_5\EmployeeLib\obj\Debug\net6.0\ref\EmployeeLib.dll
