@@ -1,0 +1,14 @@
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.AssemblyInfoInputs.cache
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.AssemblyInfo.cs
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.csproj.CoreCompileInputs.cache
+D:\Dot Net Assignments\Assign_4\Q3\bin\Debug\net6.0\Q3.exe
+D:\Dot Net Assignments\Assign_4\Q3\bin\Debug\net6.0\Q3.deps.json
+D:\Dot Net Assignments\Assign_4\Q3\bin\Debug\net6.0\Q3.runtimeconfig.json
+D:\Dot Net Assignments\Assign_4\Q3\bin\Debug\net6.0\Q3.dll
+D:\Dot Net Assignments\Assign_4\Q3\bin\Debug\net6.0\Q3.pdb
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.dll
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\refint\Q3.dll
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.pdb
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\Q3.genruntimeconfig.cache
+D:\Dot Net Assignments\Assign_4\Q3\obj\Debug\net6.0\ref\Q3.dll
